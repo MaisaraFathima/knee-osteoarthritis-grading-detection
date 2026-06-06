@@ -10,6 +10,7 @@ This project focuses on detecting and grading knee osteoarthritis using X-ray im
 * Four classes:
 
   * Normal
+  * Doubtful
   * Mild
   * Moderate
   * Severe
