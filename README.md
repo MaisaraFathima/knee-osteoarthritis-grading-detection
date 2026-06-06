@@ -2,12 +2,12 @@
 
 ##  Overview
 
-This project focuses on detecting and grading knee osteoarthritis using X-ray images. The system classifies images into four severity levels: Normal, Mild, Moderate, and Severe.
+This project focuses on detecting and grading knee osteoarthritis using X-ray images. The system classifies images into five severity levels: Normal, Doubtful, Mild, Moderate, and Severe.
 
 ##  Dataset
 
 * Knee X-ray images
-* Four classes:
+* Five classes:
 
   * Normal
   * Doubtful
